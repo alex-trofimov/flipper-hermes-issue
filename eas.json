@@ -1,0 +1,15 @@
+{
+  "build": {
+    "dev": {
+      "releaseChannel": "default",
+      "distribution": "internal",
+      "developmentClient": true,
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  },
+  "cli": {
+    "version": ">= 0.47.0"
+  }
+}
